@@ -1,0 +1,56 @@
+Hi Giancarlo! 🙋‍♂️ Here I send you some feedback about your prework 😀 
+
+First of all, I want to welcome you to this bootcamp. It is going to be a great experience and challenge. We are looking forward to help you along the way. 
+
+Congratulations, you did a great job in the prework. 
+
+On the following lines I will send you some feedback about the prework exercises. Most of the are not about mistakes, they are proposals in case you would like to make changes in your code.
+
+1 - Snail-and-Well
+
+Instead of creating the variable `Not_scape = True`, you can directly begin the exercise puting the condition `while snail_position <= well_height:`.
+
+Then add one day if the snail doesn't reach the height. 
+
+The next step would be to add one day to the days variable. 
+
+Then add the daily_distance to the snail_position. 
+
+Check again if the snail reached the well_height. 
+
+Finally, if it didn't, substract the nightly distance. 
+
+In this exercise, the right answer is 11 (the snail would advance 10cm each day and on the 11th reach 130cm). 
+
+The Bonus is a similar exercise, but in this case you need to iterate through the list to check how much it advances during the day. 
+
+2 - Duel-of-Sorcerers
+
+All good in this exercise 😀  
+
+3 - Bus
+
+Nothing to add here either 😀 
+
+4 - Robin-Hood 
+
+Great job! 
+
+5 - Temperature-Processor
+
+In the last exercise, the if statement should be the following: 
+
+``` python
+if len(hot_days) > 4 or hottest > 80 or average > 65:
+```
+We recommend you to try to do the bonus, and if you have any concrete question, please let us know. 
+
+6 - Rock-Paper-Scissors
+
+The code and the logic are correct. Int he exercise eight, you do not need to put the values of the dictionary between square brackets. This would be necessary only if you would put a list as a value, which means it would have more than one element inside. 
+
+As suggestion, I would recommend you to use function names that describe what the function does. This way, if someone else has to work on your code, it would be easier to understand. Besides, it may happen that you read the code months later, and this would also be helpful for you. 
+
+Again, this was a really good prework. You used different elements and dictionaries, which is great. Now enjoy this bootcamp and learn as much as possible 🚀 
+
+<img width=1000 src="./meme_prework.png">
